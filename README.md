@@ -1,6 +1,6 @@
 # NOP Studio
 
-**NOP Studio** is a macOS application for designing and experimenting with custom 8-bit CPUs.
+**NOP Studio** is a macOS application for designing and experimenting with custom 8-bit CPUs(NOP8).
 
 It provides an integrated environment for writing assembly code, assembling programs, simulating CPU execution, and disassembling machine code.
 
