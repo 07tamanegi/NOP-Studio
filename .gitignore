@@ -1,0 +1,28 @@
+
+# macOS
+.DS_Store
+
+# Xcode user data
+xcuserdata/
+*.xcuserstate
+
+# Xcode build files
+DerivedData/
+build/
+*.xcuserdatad/
+
+# Archives and applications
+*.xcarchive/
+*.app/
+*.dSYM/
+
+# Secrets and local configuration
+.env
+.env.*
+*.p12
+*.mobileprovision
+*.provisionprofile
+
+# Temporary files
+*.log
+*.tmp
